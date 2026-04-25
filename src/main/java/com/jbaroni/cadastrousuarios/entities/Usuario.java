@@ -1,4 +1,4 @@
-package com.jbaroni.cadastrousuarios.entitys;
+package com.jbaroni.cadastrousuarios.entities;
 
 import jakarta.persistence.*;
 import lombok.*;

@@ -1,6 +1,6 @@
 package com.jbaroni.cadastrousuarios.controller;
 
-import com.jbaroni.cadastrousuarios.entitys.Usuario;
+import com.jbaroni.cadastrousuarios.entities.Usuario;
 import com.jbaroni.cadastrousuarios.service.UsuarioService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

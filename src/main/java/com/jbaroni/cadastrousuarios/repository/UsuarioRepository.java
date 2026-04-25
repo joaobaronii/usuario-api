@@ -1,6 +1,6 @@
 package com.jbaroni.cadastrousuarios.repository;
 
-import com.jbaroni.cadastrousuarios.entitys.Usuario;
+import com.jbaroni.cadastrousuarios.entities.Usuario;
 import jakarta.transaction.Transactional;
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -1,6 +1,6 @@
 package com.jbaroni.cadastrousuarios.service;
 
-import com.jbaroni.cadastrousuarios.entitys.Usuario;
+import com.jbaroni.cadastrousuarios.entities.Usuario;
 import com.jbaroni.cadastrousuarios.repository.UsuarioRepository;
 import org.springframework.stereotype.Service;
 
